@@ -32,7 +32,7 @@
   },
   "dependencies":{
       "async":"*"
-  }
+  },
   "optionalDependencies": {
     "mime": "1.2.x",
     "request": ">=2.12.0",

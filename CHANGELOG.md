@@ -1,3 +1,7 @@
+# 1.4.2 (fork)
+2014-03-28
+userfs patched in. error callback for exists added
+
 # 1.4.1
 
 2013-07-05
